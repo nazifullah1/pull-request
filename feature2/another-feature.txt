@@ -1,4 +1,2 @@
 This file was added in the feature2
 Another line added in the readme.md
-
-Another line added in branch temp
